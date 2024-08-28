@@ -1,0 +1,21 @@
+:root{
+    background-color: rgba(52, 8, 82, 0.851);
+    color: rgb(255, 255, 255);
+  }
+  
+  body{
+    background-color: var(-cor-de-fundo);
+    color: var(texo);
+    
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
